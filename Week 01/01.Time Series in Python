@@ -1,0 +1,7 @@
+# Time series forecasting in Python
+Time series forecasting in Python has not stabilzed to the point of Sci-Kit Learn for non-time series causal/predictive modeling and machine learning. There are many libraries available to us, and so we will explore 3 of these libraries in this first week:
+1. Traditional Stats-based ARIMA framework
+2. Facebook's prophet library
+3. Neural Networks, variants with LSTM (Long-short term memory)
+
+[under construction]
